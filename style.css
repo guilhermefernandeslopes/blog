@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Fonte padrão do corpo */
+    margin: 0;
+    padding: 0;
+    background-color: #eaeaea;
+}
+
+header {
+    background: #4CAF50;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffeb3b;
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    background: #fff;
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+
+form {
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #4CAF50;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
